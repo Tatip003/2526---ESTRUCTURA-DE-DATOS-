@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Escritorio\ED\ejemplo\bin\Debug\net10.0\ejemplo.exe
+C:\Users\Usuario\OneDrive\Escritorio\ED\ejemplo\bin\Debug\net10.0\ejemplo.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\ED\ejemplo\bin\Debug\net10.0\ejemplo.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\ED\ejemplo\bin\Debug\net10.0\ejemplo.dll
+C:\Users\Usuario\OneDrive\Escritorio\ED\ejemplo\bin\Debug\net10.0\ejemplo.pdb
+C:\Users\Usuario\OneDrive\Escritorio\ED\ejemplo\obj\Debug\net10.0\ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\ED\ejemplo\obj\Debug\net10.0\ejemplo.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\ED\ejemplo\obj\Debug\net10.0\ejemplo.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\ED\ejemplo\obj\Debug\net10.0\ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\ED\ejemplo\obj\Debug\net10.0\ejemplo.dll
+C:\Users\Usuario\OneDrive\Escritorio\ED\ejemplo\obj\Debug\net10.0\refint\ejemplo.dll
+C:\Users\Usuario\OneDrive\Escritorio\ED\ejemplo\obj\Debug\net10.0\ejemplo.pdb
+C:\Users\Usuario\OneDrive\Escritorio\ED\ejemplo\obj\Debug\net10.0\ejemplo.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\ED\ejemplo\obj\Debug\net10.0\ref\ejemplo.dll

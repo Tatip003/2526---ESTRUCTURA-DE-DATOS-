@@ -7,6 +7,8 @@ namespace ProductoEscalar
     {
         static void Main(string[] args)
         {
+                        Console.WriteLine("VEjemplo visual code");
+
             List<int> vector1 = new List<int>() { 1, 2, 3 };
             List<int> vector2 = new List<int>() { -1, 0, 2 };
 
